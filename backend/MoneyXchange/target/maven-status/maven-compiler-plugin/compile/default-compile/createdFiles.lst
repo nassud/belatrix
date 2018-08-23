@@ -1,0 +1,5 @@
+co\com\belatrix\moneyxchange\Application.class
+co\com\belatrix\moneyxchange\controller\CurrencyRateController.class
+co\com\belatrix\moneyxchange\models\CurrencyRate.class
+co\com\belatrix\moneyxchange\models\LatestRates.class
+co\com\belatrix\moneyxchange\repos\CurrencyRateRepository.class

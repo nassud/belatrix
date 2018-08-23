@@ -1,0 +1,6 @@
+
+class CurrencyRate {
+
+    restPath = 'currencyRate';
+
+}
